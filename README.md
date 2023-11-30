@@ -1,6 +1,7 @@
 # GIT
 <p> Git es un **software de control de versiones** diseñado pensado en la *eficiencia, confiabilidad y compatibilidad* del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de arcgivos de código fuente.</p>
-## Características:
+
+## Diferentes funcionalidades:
 - Fuerte apoyo al desarrollo no lineal.
 - Gestión distribuida.
 - Almacenamiento de la información
@@ -9,3 +10,6 @@
 - Compatibilidad con muchas herramientas de desarrollo.
 
 ## Diferentes funcionalidades:
+1. git init:
+   <p>Holaaa</p>
+2. git fetch:
