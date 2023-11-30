@@ -10,17 +10,17 @@
 - Compatibilidad con muchas herramientas de desarrollo.
 
 ## Diferentes funcionalidades:
-1. git init:
+1. **git init:**
    <p>Crea un subdirectorio nuevo llamado .git</p>
-2. git fetch:
+2. **git fetch:**
    <p>Descarga los cambios realizados en el repositorio remoto.</p>
-3. git merge:
+3. **git merge:**
    <p>Impacta en la rama en la que te encuentras parado.</p>
-4. git pull:
+4. **git pull:**
    <p>Unifica los comandos fetch y merge en un único comando.</p>
-5. git commit:
+5. **git commit:**
    <p>Confirma los cambios realizados.</p>
-6. git push:
+6. **git push:**
    <p>Sube la rama al servidor remoto</p>
-7. git status:
+7. **git status:**
    <p>Muestra el estado actual de la rama.</p>
